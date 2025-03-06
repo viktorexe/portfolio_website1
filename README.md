@@ -1,6 +1,7 @@
-# Vansh Sharma Resume Website
+```markdown
+# Resume Website Template
 
-A modern, responsive, and visually stunning resume/CV website for Vansh Sharma, built with HTML, CSS, and JavaScript. This frontend-only project is ideal for developers looking to showcase their educational background, skills, projects, and personal details with advanced animations and clean design.
+A modern, responsive, and visually stunning resume/CV website template built with HTML, CSS, and JavaScript. This frontend-only project is ideal for developers looking to showcase their educational background, skills, projects, and personal details with advanced animations and clean design.
 
 ## Table of Contents
 
@@ -15,7 +16,7 @@ A modern, responsive, and visually stunning resume/CV website for Vansh Sharma, 
 
 ## Overview
 
-This repository contains all the necessary code to run a professional resume website for Vansh Sharma. It includes:
+This repository contains all the necessary code to run a professional resume website. It includes:
 - **HTML:** Semantic and well-structured markup.
 - **CSS:** Modern, responsive, and animated styling.
 - **JavaScript:** Smooth scrolling and dynamic animations (such as progress bars).
@@ -46,13 +47,13 @@ You can view a live demo of the website [here](#) *(add your demo URL if availab
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/vansh-sharma-resume.git
+   git clone https://github.com/your-username/resume-website-template.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd vansh-sharma-resume
+   cd resume-website-template
    ```
 
 3. **Open `index.html` in your browser:**
@@ -61,11 +62,11 @@ You can view a live demo of the website [here](#) *(add your demo URL if availab
 ## File Structure
 
 ```
-vansh-sharma-resume/
+resume-website-template/
 ├── index.html         # Main HTML file containing the website structure
 ├── styles.css         # CSS file with styling and animations
 ├── script.js          # JavaScript file handling smooth scrolling and animations
-└── vansh.jpg          # Profile image for Vansh Sharma
+└── profile.jpg        # Profile image placeholder
 ```
 
 ## Customization
@@ -84,4 +85,5 @@ vansh-sharma-resume/
 
 ## Contact
 
-For any queries or suggestions, please reach out via email: [sharma.vansh7273@gmail.com](mailto:sharma.vansh7273@gmail.com).
+For any queries or suggestions, please reach out via email: [your-email@example.com](mailto:your-email@example.com).
+```
