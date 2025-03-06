@@ -17,23 +17,24 @@ A simple, responsive, and visually appealing resume/CV website template built us
 ## Overview
 
 This repository contains a minimal yet effective resume website template. It consists of:
-- **HTML:** Provides a well-structured document for the website.
-- **CSS:** Ensures a responsive and modern look with animations.
-- **JavaScript:** Adds smooth scrolling and minor interactive elements.
+
+- **HTML**: Provides a well-structured document for the website.
+- **CSS**: Ensures a responsive and modern look with animations.
+- **JavaScript**: Adds smooth scrolling and minor interactive elements.
 
 This template is designed to be easily customized and used by anyone looking to create a personal portfolio or resume website. **Feel free to modify and use this project as needed.**
 
 ## Features
 
-- **Fully Responsive:** Works seamlessly on desktops, tablets, and mobile devices.
-- **Smooth Scrolling:** Enhances user experience while navigating through sections.
-- **Minimalistic Design:** Clean and professional layout.
-- **Easy Customization:** Simple HTML, CSS, and JavaScript structure for effortless editing.
-- **Animations:** Subtle transitions and effects for an enhanced visual appeal.
+- **Fully Responsive**: Works seamlessly on desktops, tablets, and mobile devices.
+- **Smooth Scrolling**: Enhances user experience while navigating through sections.
+- **Minimalistic Design**: Clean and professional layout.
+- **Easy Customization**: Simple HTML, CSS, and JavaScript structure for effortless editing.
+- **Animations**: Subtle transitions and effects for an enhanced visual appeal.
 
 ## Demo
 
-You can view a live demo of the website [here](#) *(add your demo URL if available)*.
+You can view a live demo of the website [here](#) *(add your demo URL if available).*
 
 ## Getting Started
 
@@ -71,11 +72,11 @@ resume-website-template/
 
 ## Customization
 
-- **Personal Information:** Update your name, experience, and contact details in `index.html`.
-- **Skills & Portfolio:** Modify sections to showcase your expertise and projects.
-- **Styling & Colors:** Adjust styles in `styles.css` to match your personal brand.
-- **Animations:** Modify CSS animations or add new ones.
-- **Profile Image:** Replace `profile.jpg` with your own image.
+- **Personal Information**: Update your name, experience, and contact details in `index.html`.
+- **Skills & Portfolio**: Modify sections to showcase your expertise and projects.
+- **Styling & Colors**: Adjust styles in `styles.css` to match your personal brand.
+- **Animations**: Modify CSS animations or add new ones.
+- **Profile Image**: Replace `profile.jpg` with your own image.
 
 ## Technologies Used
 
